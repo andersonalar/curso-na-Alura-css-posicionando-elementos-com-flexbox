@@ -34,9 +34,9 @@ As principais técnicas e tecnologias utilizadas neste projeto são:
 
 Esses atributos são essenciais para criar um layout flexível, garantindo que a página seja responsiva e adaptável a diferentes tamanhos de tela e dispositivos.
 
-## 📁 Acesso ao Projeto
+## 📁 Acesso ao Projeto-link do site
 
-Você pode [acessar o código-fonte do projeto inicial](https://github.com/monicahillman/3992-css-grid/tree/projeto-base) ou [baixá-lo](https://github.com/monicahillman/3992-css-grid/archive/refs/heads/projeto-base.zip).
+https://andersonalar.github.io/curso-na-Alura-css-posicionando-elementos-com-flexbox/
 
 ## 🛠️ Como Abrir e Rodar o Projeto
 
